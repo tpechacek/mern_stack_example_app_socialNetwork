@@ -21,7 +21,7 @@ if (localStorage.token) {
 // Empty brackets mean it only runs once
 const App = () => {
   useEffect(() => {
-    store.dispatch(loadUser);
+    store.dispatch(loadUser());
   }, []);
 
   return (

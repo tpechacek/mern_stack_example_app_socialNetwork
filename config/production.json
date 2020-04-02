@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://tayloradmin:password521232137263@socialapp-jnqid.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "801e7fa2c3803d993032e267e9fa463d69c5dd75"
+}
